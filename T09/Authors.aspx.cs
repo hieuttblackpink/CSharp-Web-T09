@@ -13,5 +13,10 @@ namespace T09
         {
 
         }
+
+        protected void Wizard1_FinishButtonClick(object sender, WizardNavigationEventArgs e)
+        {
+
+        }
     }
 }
